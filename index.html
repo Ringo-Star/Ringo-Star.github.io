@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Docs Page</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/all.min.css">
+	<style>
+		body {
+			font-family: sans-serif;
+		}
+		.container {
+			margin: 0 auto;
+			max-width: 800px;
+			padding: 20px;
+		}
+		.docs-nav {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			margin-bottom: 20px;
+			padding: 10px;
+			background-color: #f8f8f8;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+		}
+		.docs-nav h1 {
+			font-size: 24px;
+			font-weight: bold;
+			margin: 0;
+		}
+		.docs-nav ul {
+			display: flex;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+		.docs-nav li {
+			margin-right: 20px;
+		}
+		.docs-nav li:last-child {
+			margin-right: 0;
+		}
+		.docs-nav a {
+			color: #666;
+			text-decoration: none;
+			font-weight: bold;
+			font-size: 16px;
+			transition: all 0.3s ease;
+		}
+		.docs-nav a:hover {
+			color: #333;
+		}
+		.docs-content h1 {
+			font-size: 24px;
+			font-weight: bold;
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+		.docs-content h2 {
+			font-size: 20px;
+			font-weight: bold;
+			margin-top: 40px;
+			margin-bottom: 20px;
+		}
+		.docs-content p {
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+		.docs-content pre {
+			background-color: #f8f8f8;
+			padding: 10px;
+			border-radius: 5px;
+			font-size: 14px;
+			overflow-x: scroll;
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+		.docs-content ul {
+			margin-top: 0;
+			margin-bottom: 20px;
+			padding-left: 20px;
+		}
+		.docs-content li {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		.docs-content a {
+			color: #337ab7;
+			text-decoration: none;
+			font-weight: bold;
+			transition: all 0.3s ease;
+		}
+		.docs-content a:hover {
+			color: #23527c;
+			text-decoration: underline;
+		}
+		.docs-content code {
+			background-color: #f8f8f8;
+			padding: 2px 5px;
+			border-radius: 5px;
+			font-size: 14px;
+		}
+	</style>
+</head>
+<body>
