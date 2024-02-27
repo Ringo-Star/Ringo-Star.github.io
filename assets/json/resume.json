@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yasong Dai",
+    "label": "Graduate Student at Australian National University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Yasong.Dai@anu.edu.au",
+    "phone": "(61) 0422299126",
+    "url": "https://ringo-star.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "TBA",
+      "postalCode": "Acton 2601",
+      "city": "Canberra",
+      "countryCode": "AU",
+      "region": "ACT"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "Yasong Dai",
+        "url": "https://www.linkedin.com/in/yasong-ringo-dai/"
       }
     ]
   },
@@ -46,14 +46,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "The Australian National University",
+      "location": "Canberra, ACT, Australia",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "studyType": "Master",
+      "startDate": "Feb 2022",
+      "endDate": "Dec 2023",
+      "score": "100",
       "courses": ["Theory of Relativity"]
     }
   ],
@@ -150,7 +150,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
