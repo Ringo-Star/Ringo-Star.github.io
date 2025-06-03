@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yasong Dai",
-    "label": "Graduate Student at Australian National University",
+    "label": "PhD Candidate @ School of Computing, Australian National University",
     "image": "",
     "email": "Yasong.Dai@anu.edu.au",
     "phone": "(61) 0422299126",
@@ -47,14 +47,14 @@
   "education": [
     {
       "institution": "The Australian National University",
-      "location": "Canberra, ACT, Australia",
-      "url": "https://www.uzh.ch/",
+      "location": "Canberra, Australia",
+      "url": "https://programsandcourses.anu.edu.au/2025/program/MMLCV",
       "area": "Software Development",
-      "studyType": "Master",
-      "startDate": "Feb 2022",
-      "endDate": "Dec 2023",
+      "studyType": "Master of Machine Learning and Computer Vision",
+      "startDate": "2022",
+      "endDate": "2023",
       "score": "100",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Statistical Machine Learning", "Advanced Topics in Computer Vision", "Numerical Optimization"]
     }
   ],
   "awards": [
