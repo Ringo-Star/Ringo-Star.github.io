@@ -1,5 +1,5 @@
 cv:
-  name: Albert Einstein
+  name: Yasong (Ringo) Dai
   label: Scientist
   email: einstein@example.com
   location: Princeton, NJ
@@ -10,7 +10,7 @@ cv:
     - network: X
       username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: Ringo-Star
     - network: LinkedIn
       username: example
 
