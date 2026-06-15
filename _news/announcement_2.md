@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work has been accepted to an **ICML 2026 Workshop**! :sparkles:
+Our work, [**Fast-dLLM++**](https://ringo-star.github.io/projectpage_frechet/) has been accepted to [**SPIGM @ ICML2026**](https://spigmworkshop2026.github.io/)! :sparkles:

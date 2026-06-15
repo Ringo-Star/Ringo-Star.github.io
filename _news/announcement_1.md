@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation** has been accepted to **CVPR 2026**! :tada:
+Our paper [**BiFM**](https://arxiv.org/abs/2603.24942) has been accepted to **CVPR 2026**! :tada:
