@@ -1,7 +1,11 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-07-06'
 papers:
-  fc5bn6QAAAAJ:u-x6o8ySG0sC:
+  fc5bn6QAAAAJ:d1gkVwhDpl0C:
     citations: 0
+    title: "Fast-dLLM++: Fr\xE8chet Profile Decoding for Faster Diffusion LLM Inference"
+    year: '2026'
+  fc5bn6QAAAAJ:u-x6o8ySG0sC:
+    citations: 1
     title: 'BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation'
     year: '2026'
