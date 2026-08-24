@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-24'
 papers:
   fc5bn6QAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Probing Diffusion Denoising Dynamics for Contrastive Representation Learning
     year: '2026'
   fc5bn6QAAAAJ:d1gkVwhDpl0C:
-    citations: 0
+    citations: 1
     title: "Fast-dLLM++: Fr\xE8chet Profile Decoding for Faster Diffusion LLM Inference"
     year: '2026'
   fc5bn6QAAAAJ:u-x6o8ySG0sC:
